@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  background-color: black;
+}
+.dbutton{
+    font-size: 20px;
+  width: 66px;
+  padding: 20px;
+  color: white;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 30px;
+  cursor: pointer;
+  background-color: darkslategray;
+}
+.lbutton{
+    font-size: 20px;
+  width: 66px;
+  color: white;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 30px;
+  cursor: pointer;
+  background-color: darkgray;
+}
+.obutton{
+    font-size: 20px;
+  width: 66px;
+  color: white;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 30px;
+  cursor: pointer;
+  background-color: darkorange;
+}
+.bbutton{
+  width: 140px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 35px;
+  color: white;
+  cursor: pointer;
+  background-color: darkslategray;
+  font-size: 20px;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
