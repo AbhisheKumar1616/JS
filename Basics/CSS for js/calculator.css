@@ -6,9 +6,9 @@ html, body {
   background-color: black;
 }
 .dbutton{
-    font-size: 20px;
   width: 66px;
-  padding: 20px;
+  padding: 14px;
+  font-size: 30px;
   color: white;
   margin: 0 3px;
   border: 2px solid black;
@@ -17,10 +17,10 @@ html, body {
   background-color: darkslategray;
 }
 .lbutton{
-    font-size: 20px;
   width: 66px;
-  color: white;
-  padding: 20px;
+  color: black;
+  padding: 14px;
+  font-size: 30px;
   margin: 0 3px;
   border: 2px solid black;
   border-radius: 30px;
@@ -28,10 +28,10 @@ html, body {
   background-color: darkgray;
 }
 .obutton{
-    font-size: 20px;
   width: 66px;
+  padding: 14px;
+  font-size: 30px;
   color: white;
-  padding: 20px;
   margin: 0 3px;
   border: 2px solid black;
   border-radius: 30px;
@@ -40,14 +40,14 @@ html, body {
 }
 .bbutton{
   width: 140px;
-  padding: 20px;
+  padding: 14px;
+  font-size: 30px;
   margin: 0 3px;
   border: 2px solid black;
   border-radius: 35px;
   color: white;
   cursor: pointer;
   background-color: darkslategray;
-  font-size: 20px;
 }
 
 .row{
